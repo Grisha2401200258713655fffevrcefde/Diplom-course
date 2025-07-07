@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+.main {
+    width: 300px;
+    margin: 80px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+input, button {
+    width: 100%;
+    margin: 8px 0;
+    padding: 8px;
+    box-sizing: border-box;
+}
